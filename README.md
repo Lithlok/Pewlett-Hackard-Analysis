@@ -7,9 +7,9 @@ solution. This image is our ERD for the database connections within the provided
 
 Results:
 	- First, the bad news! The bad news is that we have 90,398 employees ready to retire! <image insert> Retiring Titles
-  - Secondly, we can find this data by utilizing the 'retiring_titles.csv' file, in which we can view employees by their highest title achieved as well as their retirement       elegibility.   
-  - Thirdly, out of these 90,398 employees, 57668 of them are senior staff in our organization and therein we see the problem. Our most knowledgable employees are heaed out       of the door.
-  - Finally, we have a solution! Mentorship; The perfect way to pass on this valuable expierence gathered over years in our organization, imparted to our younger, up and         coming employees.
+  	- Secondly, we can find this data by utilizing the 'retiring_titles.csv' file, in which we can view employees by their highest title achieved as well as their retirement 	  elegibility.   
+  	- Thirdly, out of these 90,398 employees, 57668 of them are senior staff in our organization and therein we see the problem. Our most knowledgable employees are headed 	out of the door.
+  	- Finally, we have a solution! Mentorship; The perfect way to pass on this valuable expierence gathered over years in our organization, imparted to our younger, up and 	coming employees.
 
 Summary: 
 	These numbers do not look good, and any way you slice it, we here at Pewlett-Hackard have a daunting task ahead of us. We must use this valuable resource of acquired knowledge while we have access to it. I propose a mentorship program that will transition these most senior staff into a part-time trainer role where they have shorter hours, less workload, and an immeasurable ability to be more of an asset to our company. According to the data garnered from the 'mentorship_eligibility.csv' file, We see that we have access to 1,549 employees that are in the target range for desired mentors. <insert image> mentorship eligibility
